@@ -1,1 +1,0 @@
-# 3D-Orion-Constellation_Python-Matplotlib
